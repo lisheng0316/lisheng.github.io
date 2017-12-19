@@ -1,11 +1,11 @@
-baseURL = "https://lisheng0316.github.io/"
+baseURL = "http://localhost:1313"
 languageCode = "en"
 title = "SHENG LI"
 theme = "hugo-nuo"
 enableRobotsTXT = true
 PygmentsCodeFences = true
 canonifyurls = true
-
+publishDir = "docs"
 # Disqus Username
 disqusShortname = "disqus_shortname"
 
