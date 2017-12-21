@@ -2,11 +2,11 @@
 title: Sheng Li | Love Work and Enjoy Life
 description: "Placing things where they should be"
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# url: "li-sheng.net" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Sheng Li
-user_description: I'm a former content producer and a new CS graduate from Georgia Tech
+user_description: I'm a former content producer and a new CS graduate from Georgia Tech.
 user_title: Content Producer/Software Developer
 email: lisheng0316@gmail.com
 # twitter_username: lorem_ipsum
